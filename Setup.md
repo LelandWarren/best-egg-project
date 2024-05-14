@@ -23,3 +23,5 @@ Ensure you have a config.json file in the public directory. A sample json file s
 To run the application locally, use the following command:
 
 ```npm run serve```
+
+The project should be hosted on http://localhost:8080/
